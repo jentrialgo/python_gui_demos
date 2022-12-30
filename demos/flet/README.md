@@ -10,3 +10,11 @@ Install it with:
 ```bash
 pip install flet
 ```
+
+Screenshots:
+
+![Screenshot](.screenshots/helloworld.png)
+
+![Screenshot](.screenshots/simple_form.png)
+
+![Screenshot](.screenshots/rest_consumer.png)

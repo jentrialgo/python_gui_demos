@@ -21,3 +21,7 @@ If you want to run it as a web app, use this command:
 ```bash
 flet --web hello.py
 ```
+
+Screenshot:
+
+![Screenshot](../.screenshots/helloworld.png)

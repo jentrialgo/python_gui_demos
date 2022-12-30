@@ -19,3 +19,7 @@ If you want to run it as a web app, use this command:
 ```bash
 flet --web simple_form.py
 ```
+
+Screenshot:
+
+![Screenshot](../.screenshots/simple_form.png)

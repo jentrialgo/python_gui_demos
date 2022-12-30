@@ -20,3 +20,7 @@ If you want to run it as a web app, use this command:
 ```bash
 flet --web rest_consumer.py
 ```
+
+Screenshot:
+
+![Screenshot](../.screenshots/rest_consumer.png)
