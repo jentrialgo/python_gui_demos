@@ -1,6 +1,7 @@
 # CustomTkinter
 
-Tkinter is a GUI library based on Tkinter but with more modern looking widgets.
+[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) is a GUI library
+based on Tkinter but with more modern looking widgets.
 
 Screenshots:
 
