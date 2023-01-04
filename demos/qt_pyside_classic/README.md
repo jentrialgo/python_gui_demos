@@ -23,7 +23,7 @@ pip install pyside6
 
 Screenshots:
 
-![Screenshot](.screenshots/helloworld.png)
+![Screenshot](.screenshots/hello_world.png)
 
 ![Screenshot](.screenshots/simple_form.png)
 

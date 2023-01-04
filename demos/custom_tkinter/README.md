@@ -5,7 +5,7 @@ based on Tkinter but with more modern looking widgets.
 
 Screenshots:
 
-![Screenshot](.screenshots/helloworld.png)
+![Screenshot](.screenshots/hello_world.png)
 
 ![Screenshot](.screenshots/simple_form.png)
 
