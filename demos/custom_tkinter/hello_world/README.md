@@ -13,5 +13,5 @@ pip install customtkinter
 Run the application as a desktop app with:
 
 ```bash
-python hello.py
+python hello_world.py
 ```
